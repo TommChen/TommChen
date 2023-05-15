@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm TommChen.
+Hi, I'm Tomm.
 
 <!--
 **TommChen/TommChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
